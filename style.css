@@ -1,0 +1,19 @@
+img {
+    width: 230px;
+    height: auto;
+}
+
+body {
+    font-family: Verdana, sans-serif;
+    font-size: 1.23rem;
+    background-color: red;
+}
+
+h1 {
+    font-size: 1.7rem;
+    color: white;
+}
+
+p {
+    color: white;
+}
